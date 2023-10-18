@@ -52,7 +52,7 @@ p, li {
   font-family: 'Arimo', sans-serif;	
 }
 
-#funko, #products, #cultural-sig, {
+#funko, #products, #cultural-sig {
   display: block;
   margin: 0;
   padding: 50px;
@@ -69,10 +69,17 @@ p, li {
   width: 1500px;
   text-align: center;
 }
+#spiderverse, #media, #spidey  {
+  display: block;
+  margin: 10px;
+  padding: 50px;
+  border: 10px;	
+}
 #spiderverse h1{
-  color: red;
+ background: black;
+ color: red;
   font-size: 50px;
-  border: 8px solid white;
+  border: 8px solid red;
   box-sizing: border-box;
   padding: 5px 10px 5px 10px;
   margin-right: auto;
@@ -82,7 +89,7 @@ p, li {
 }
 #contact h2, #educ h2, #work h2, #org h2  {
   color: white;
-    font-size: 50px;
+  font-size: 50px;
   border: 8px solid #815034;
   box-sizing: border-box;
   padding: 5px 10px 5px 10px;
@@ -92,8 +99,8 @@ p, li {
   text-align: center;
 }
 
-
 iframe{
+  text-align: center;	
   height: 300px;
   width: 500px;
   position: static;
