@@ -80,7 +80,25 @@ p, li {
   width: 1500px;
   text-align: center;
 }
+#contact h2, #educ h2, #work h2, #org h2  {
+  color: white;
+    font-size: 50px;
+  border: 8px solid #815034;
+  box-sizing: border-box;
+  padding: 5px 10px 5px 10px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 1500px;
+  text-align: center;
+}
 
+
+iframe{
+  height: 300px;
+  width: 500px;
+  position: static;
+  border: 0;  
+}
 
 .center{
   text-align: center;
