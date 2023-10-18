@@ -1,5 +1,8 @@
+body{
+  background-color: #cfb6a2; 	
+}
 #main-navbar {
-  background-color: #cc9e7b;
+  background-color: #815034;
   overflow: hidden;	
 }
 
@@ -33,7 +36,7 @@
 }
 
 #main-navbar ul li a:hover {
-  background-color: #815034;  	
+  background-color: #4a2c2a;  	
 }
 h1{
   font-family: 'Libre Baskerville', serif;
@@ -49,14 +52,47 @@ p, li {
   font-family: 'Arimo', sans-serif;	
 }
 
+#funko, #products, #cultural-sig, {
+  display: block;
+  margin: 0;
+  padding: 50px;
+  border: 0;
+}
+#funko h1{
+  color: white;
+  font-size: 50px;
+  border: 8px solid #815034;
+  box-sizing: border-box;
+  padding: 5px 10px 5px 10px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 1500px;
+  text-align: center;
+}
+#spiderverse h1{
+  color: red;
+  font-size: 50px;
+  border: 8px solid white;
+  box-sizing: border-box;
+  padding: 5px 10px 5px 10px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 1500px;
+  text-align: center;
+}
+
+
+.center{
+  text-align: center;
+}
 .floatleft{
   float: left;
 }
 
-#floatright {
+.floatright {
   float: right;
 }
 
 .clearme {
-  clear:both;
+  clear: both;
 }
