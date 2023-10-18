@@ -38,6 +38,7 @@ body{
 #main-navbar ul li a:hover {
   background-color: #4a2c2a;  	
 }
+
 h1{
   font-family: 'Libre Baskerville', serif;
   font-weight: 400;  
@@ -58,6 +59,7 @@ p, li {
   padding: 50px;
   border: 0;
 }
+
 #funko h1{
   color: white;
   font-size: 50px;
@@ -69,15 +71,17 @@ p, li {
   width: 1500px;
   text-align: center;
 }
+
 #spiderverse, #media, #spidey  {
   display: block;
   margin: 10px;
   padding: 50px;
   border: 10px;	
 }
+
 #spiderverse h1{
- background: black;
- color: red;
+  background: black;
+  color: red;
   font-size: 50px;
   border: 8px solid red;
   box-sizing: border-box;
@@ -87,6 +91,7 @@ p, li {
   width: 1500px;
   text-align: center;
 }
+
 #contact h2, #educ h2, #work h2, #org h2  {
   color: white;
   font-size: 50px;
@@ -110,6 +115,7 @@ iframe{
 .center{
   text-align: center;
 }
+
 .floatleft{
   float: left;
 }
