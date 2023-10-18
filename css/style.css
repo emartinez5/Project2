@@ -37,6 +37,9 @@
 }
 
 h1, h2, h3, h4{
-  font-family: Libre-Baskerville 
+  font-family: 'Libre Baskerville', serif;
 }
 
+p {
+  font-family: 'Arimo', sans-serif;	
+}
