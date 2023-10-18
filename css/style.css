@@ -35,11 +35,28 @@
 #main-navbar ul li a:hover {
   background-color: #815034;  	
 }
-
-h1, h2, h3, h4{
+h1{
   font-family: 'Libre Baskerville', serif;
+  font-weight: 400;  
 }
 
-p {
+h2, h3, h4{
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 300;
+}
+
+p, li {
   font-family: 'Arimo', sans-serif;	
+}
+
+.floatleft{
+  float: left;
+}
+
+#floatright {
+  float: right;
+}
+
+.clearme {
+  clear:both;
 }
