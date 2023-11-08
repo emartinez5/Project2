@@ -52,7 +52,7 @@ p, li {
 }
 #funko h1{
   color: white;
-  font-size: 50px;
+  font-size:5em;
   border: 8px solid #815034;
   box-sizing: border-box;
   padding: 5px 10px 5px 10px;
@@ -70,7 +70,7 @@ p, li {
 #spiderverse h1{
   background: black;
   color: red;
-  font-size: 50px;
+  font-size: 5em;
   border: 8px solid red;
   box-sizing: border-box;
   padding: 5px 10px 5px 10px;
