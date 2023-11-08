@@ -5,13 +5,11 @@ body{
   background-color: #815034;
   overflow: hidden;	
 }
-
 #navbar-container {
   float: left;	
   width: 100%;
   position: relative; 	
 }
-
 #main-navbar ul {
   list-style-type: none;	
   margin: 0;
@@ -20,46 +18,38 @@ body{
   left: 50%;
   float: left;	
 }
-
 #main-navbar ul li {
   float: left;	
   position: relative;
   right: 50%;
   display: block; 	
 }
-
 #main-navbar ul li a {
   display: block;
   padding: 10px 20px;
   color: #fff;
   text-decoration: none;	
 }
-
 #main-navbar ul li a:hover {
   background-color: #4a2c2a;  	
 }
-
 h1{
   font-family: 'Libre Baskerville', serif;
   font-weight: 400;  
 }
-
 h2, h3, h4{
   font-family: 'Libre Baskerville', serif;
   font-weight: 300;
 }
-
 p, li {
   font-family: 'Arimo', sans-serif;	
 }
-
 #funko, #products, #cultural-sig {
   display: block;
   margin: 0;
   padding: 50px;
   border: 0;
 }
-
 #funko h1{
   color: white;
   font-size: 50px;
@@ -71,14 +61,12 @@ p, li {
   width: 1500px;
   text-align: center;
 }
-
 #spiderverse, #media, #spidey  {
   display: block;
   margin: 10px;
   padding: 50px;
   border: 10px;	
 }
-
 #spiderverse h1{
   background: black;
   color: red;
@@ -91,7 +79,6 @@ p, li {
   width: 1500px;
   text-align: center;
 }
-
 #contact h2, #educ h2, #work h2, #org h2  {
   color: white;
   font-size: 50px;
@@ -103,7 +90,6 @@ p, li {
   width: 1500px;
   text-align: center;
 }
-
 iframe{
   text-align: center;	
   height: 300px;
@@ -111,19 +97,15 @@ iframe{
   position: static;
   border: 0;  
 }
-
 .center{
   text-align: center;
 }
-
 .floatleft{
   float: left;
 }
-
 .floatright {
   float: right;
 }
-
 .clearme {
   clear: both;
 }
