@@ -65,7 +65,7 @@ p, li {
   display: block;
   margin: 10px;
   padding: 50px;
-  border: 10px;	
+  border: 100px;	
 }
 #spiderverse h1{
   background: black;
@@ -81,7 +81,7 @@ p, li {
 }
 #contact h2, #educ h2, #work h2, #org h2  {
   color: white;
-  font-size: 50px;
+  font-size: 4em;
   border: 8px solid #815034;
   box-sizing: border-box;
   padding: 5px 10px 5px 10px;
@@ -96,7 +96,11 @@ iframe{
   width: 500px;
   position: static;
   border: 0;  
-}
+  margin: 10px;
+  padding: 50px;
+  border: 100px;	  
+  
+
 .center{
   text-align: center;
 }
